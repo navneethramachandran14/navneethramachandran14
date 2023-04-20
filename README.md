@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @navneethramachandran.
-- 👀 I’m interested in learning Machine Learning and Data Science.
-- 🌱 I’m currently learning Data Science.
-- 📫 How to reach me - mail me at navneethramachandran@gmail.com.
+- 👀 Passionate about analysing data, and making predictions using machine learning models.
+- 🌱 Works at IBM India Pvt. Ltd. Bangalore
+- 📫 Contact - navneethramachandran@yahoo.com or +91 9539115183
 
 <!---
 navneethramachandran14/navneethramachandran14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
