@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @navneethramachandran.
-- 👀 Passionate about analysing data, and making predictions using machine learning models.
+- 👀 Passionate about data science, data analytics and data engineering.
 - 🌱 Works at IBM India Pvt. Ltd. Bangalore
 - 📫 Contact - navneethramachandran@yahoo.com or +91 9539115183
 
