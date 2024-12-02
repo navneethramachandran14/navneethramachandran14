@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @navneethramachandran.
-- 👀 Passionate about data science, data analytics and data engineering.
+- 👀 Passionate about data engineering, data science and data analytics.
 - 🌱 IBMer
 - 📫 Contact - navneethramachandran@yahoo.com
 
